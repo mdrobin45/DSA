@@ -1,1 +1,4 @@
-4.25454425811767578125
+Enter first number: 
+Enter second number: 
+Enter third number: 
+Largest number is: 32767
