@@ -1,4 +1,2 @@
-Enter first number: 
-Enter second number: 
-Enter third number: 
-Largest number is: 32767
+ALPHA
+IS CAPITAL
