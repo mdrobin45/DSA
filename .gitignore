@@ -3,3 +3,4 @@
 .txt
 # Except .c files
 !*.c
+*.txt
