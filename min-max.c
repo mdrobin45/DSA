@@ -5,23 +5,21 @@ int main(){
    scanf("%d %d %d", &A, &B,&C);
 
    if(A<=B&&A<=C){
-      min = A;
+      printf("%d ", A);
    }else if(B<=A&&B<=C){
-      min = B;
+      printf("%d ", B);
    }else{
-      min = C;
+      printf("%d ", C);
    }
 
    if(A>=B&&A>=C){
-      max = A;
+      printf("%d ", A);
    }else if(B>=A&&B>=C){
-      max = B;
+      printf("%d ", B);
    }else{
-      max = C;
+      printf("%d ", C);
    }
 
-   printf("%d ", min);
-   printf("%d", max);
 
    return 0;
 }
