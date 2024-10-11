@@ -1,5 +1,5 @@
 # Ignore all files
 *
-
+.txt
 # Except .c files
 !*.c
