@@ -1,2 +1,5 @@
-input.txt
-output.txt
+# Ignore all files
+*
+
+# Except .c files
+!*.c
