@@ -1,6 +1,8 @@
 # Ignore all files
 *
 .txt
+input.txt
+output.txt
 # Except .c files
 !*.c
-*.txt
+input.txt
