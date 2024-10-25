@@ -10,7 +10,6 @@ int main()
    {
       scanf("%d", &prices[i]);
    }
-
    for (int j = 0; j < n; j++)
    {
       if(prices[j]>=start && prices[j]<=end ){
