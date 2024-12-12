@@ -1,0 +1,11 @@
+{
+   "files.associations": {
+      "*html": "html",
+      "*.md": "markdown",
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "new": "cpp",
+      "istream": "cpp",
+      "*.tcc": "cpp"
+   }
+}
