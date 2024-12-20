@@ -3,6 +3,7 @@
       "*html": "html",
       "*.md": "markdown",
       "iostream": "cpp",
-      "new": "cpp"
+      "new": "cpp",
+      "ostream": "cpp"
    }
 }
